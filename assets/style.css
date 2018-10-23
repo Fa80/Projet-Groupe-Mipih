@@ -1,0 +1,173 @@
+nav {
+  margin-left: 4.5%;
+  margin-right: 4.5%;
+}
+
+#linkstyle{
+  font-weight: bold;
+}
+footer{
+  background-color: #394363;
+  color: white;
+}
+.logoyoutube{
+  width: 43px;
+  height: 43px;
+}
+.liste-fleche {
+  list-style-type:disclosure-closed;
+}
+.liste-cercle {
+  list-style-type:circle;
+}
+.logoyoutube{
+  width: 43px;
+  height: 43px;
+}
+.image{
+  font-size: : 13px;
+  line-height: 20px;
+}
+#fleche{
+  position: fixed;
+  top: 80%;
+  right: 3%;
+  text-decoration: none;
+  color: purple;
+}
+a:hover{
+  color: #394363 !important;
+}
+#imagevideoyoutubemipih{
+  float: left;
+  margin: 0 1em 0 1em;
+}
+#head{
+background-color: #39286C;
+}
+#body{
+  background-color: #96CEEF;
+}
+.titreh4{
+  color: #5B8Fa7;
+  font-weight: normal;
+  font-size: 18px;
+}
+.fieldsettitre{
+  color:#394363;
+}
+.bouton{
+width: 25px;
+height: 25px;
+}
+
+/* background du header derrière le carrousel */
+header{
+  background-image: url("img/fond-slider.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 150%;
+}
+#blocktotal{
+    margin-right: 5%;
+}
+}
+.card-border{
+    background-color: #90C9F0;
+}
+#card-tete{
+    background-color: #3F3E64;
+    position:
+    color: white;
+}
+.card-title{
+    font-weight: bold;
+    font-size: 15px;
+    color: #427ACB;
+}
+.card-text{
+
+    font-size: 14px;
+    color: #4C547A;
+}
+.card-date{
+    font-size: 13px;
+    font-weight: normal;
+    color: black;
+}
+.card-suite{
+    font-size: 11px;
+    font-weight: bold;
+    color: #F10672
+}
+#card-pied{
+    text-align: right;
+    background-color: #3F3E64;
+    color: white;
+}
+/*CSS Card 1 CSS Card 1 CSS Card 1 CSS Card 1 CSS Card 1 CSS Card 1 CSS Card 1 CSS Card 1*/
+.card-border{
+    background-color: #90C9F0;
+}
+#card-tete1{
+    background-color: #3F3E64;
+    color: white;
+}
+.card-title{
+    font-weight: bold;
+    font-size: 18px;
+    color: #427ACB;
+}
+#img{
+    float: left;
+}
+#move{
+ text-align: center;
+}
+.card-date{
+    font-size: 13px;
+    font-weight: normal;
+    color: black;
+}
+.card-suite{
+    font-size: 11px;
+    font-weight: bold;
+    color: #F10672
+}
+#card-pied1{
+    text-align: right;
+    background-color: #3F3E64;
+    color: white;
+}
+/*CSS CARD 2 CSS CARD 2 CSS CARD 2 CSS CARD 2 CSS CARD 2 CSS CARD 2 CSS CARD 2 CSS CARD*/
+#card-border2{
+    background-color: #45A5E4;
+}
+#card-tete2{
+    background-color: #3F3E64;
+    color: white;
+}
+#card-text2{
+    color: white
+}
+#btn{
+ margin-top: 80px;
+}
+/*CSS CARD 3 CSS CARD 3 CSS CARD 3 CSS CARD 3 CSS CARD 3 CSS CARD 3 CSS CARD 3 CSS CARD 3*/
+#img1{
+margin-left: 8%;
+margin-right: 20%;
+height: 167px;
+width: 188px;
+}
+#card-tete3{
+  background-color: #3F3E64;
+    color: white;
+}
+#card-border3{
+    background-color: #90C9F0;
+}
+#btn2{
+    margin-left: 25%;
+    content: "\279C";
+}
